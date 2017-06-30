@@ -7,3 +7,4 @@ Git add to stage.
 Git has a remote repository.
 This is a clone from remote repository.
 is this dev branch
+new branch new time line.
