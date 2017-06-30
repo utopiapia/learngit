@@ -11,3 +11,7 @@ New branch is quick and simple.
 This is master commit
 This is Dev commit.
 Dev continue.
+
+|||
+
+Master continue
