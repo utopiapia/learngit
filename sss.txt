@@ -8,3 +8,4 @@ Git has a remote repository.
 This is a clone from remote repository.
 new branch new time line.
 New branch is quick and simple.
+This is Dev commit.
